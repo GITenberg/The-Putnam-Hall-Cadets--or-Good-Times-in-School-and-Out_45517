@@ -1,0 +1,43 @@
+_repo: The-Putnam-Hall-Cadets--or-Good-Times-in-School-and-Out_45517
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Shute, A. B.
+    alias: Shute, A. Burnham
+    deathdate: 1906
+    gutenberg_agent_id: '26350'
+    url: http://www.gutenberg.org/2009/agents/26350
+covers:
+- cover_type: archival
+  image_path: 45517-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Bonehill, Ralph
+    - Bonehill, Captain Ralph
+    - Steward, Ray M.
+    - Winfield, Arthur M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2014-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'Military education -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Bullying -- Juvenile fiction'
+- !lcsh 'Mystery fiction'
+- !lcc 'PZ'
+title: The Putnam Hall Cadets; or, Good Times in School and Out
+url: http://www.gutenberg.org/ebooks/45517
